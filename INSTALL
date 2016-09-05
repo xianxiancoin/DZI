@@ -1,0 +1,9 @@
+Building DZI
+
+See doc/readme-qt.rst for instructions on building DZI QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DZI.
+
+See doc/build-*.txt for instructions on building DZId,
+the intended-for-services, no-graphical-interface, reference
+implementation of DZI.
